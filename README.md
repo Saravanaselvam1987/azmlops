@@ -1,0 +1,2 @@
+# azmlops
+Azure mlops practice
